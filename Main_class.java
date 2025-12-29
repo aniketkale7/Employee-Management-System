@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
-import javax.swing.JLabel;
+import javax.swing.JLabel;   
 
 public class Main_class extends JFrame {
 	
@@ -86,3 +86,4 @@ public class Main_class extends JFrame {
 		new Main_class();
 	}
 }
+
